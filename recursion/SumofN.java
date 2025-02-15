@@ -7,7 +7,7 @@ public class SumofN {
       return fn;
   }
   public static void main(String[] args) {
-      int n=15;
+      int n=10;
       System.out.println(sumOfN(n));
   }
 }
